@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="243667" started-at="2020-12-13T15:10:04 IST" finished-at="2020-12-13T15:14:08 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="243667" started-at="2020-12-13T15:10:04 IST" finished-at="2020-12-13T15:14:08 IST">
+      <class name="testCasesForExecution.TestCasesForPC">
+        <test-method status="PASS" signature="startTheBrowser()[pri:0, instance:testCasesForExecution.TestCasesForPC@30b8a058]" name="startTheBrowser" is-config="true" duration-ms="33273" started-at="2020-12-13T15:10:05 IST" finished-at="2020-12-13T15:10:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTheBrowser -->
+        <test-method status="PASS" signature="test01_Verify_Logo()[pri:0, instance:testCasesForExecution.TestCasesForPC@30b8a058]" name="test01_Verify_Logo" duration-ms="210" started-at="2020-12-13T15:10:38 IST" finished-at="2020-12-13T15:10:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01_Verify_Logo -->
+        <test-method status="PASS" signature="closeTheBrowser()[pri:0, instance:testCasesForExecution.TestCasesForPC@30b8a058]" name="closeTheBrowser" is-config="true" duration-ms="792" started-at="2020-12-13T15:10:38 IST" finished-at="2020-12-13T15:10:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheBrowser -->
+        <test-method status="PASS" signature="startTheBrowser()[pri:0, instance:testCasesForExecution.TestCasesForPC@30b8a058]" name="startTheBrowser" is-config="true" duration-ms="36827" started-at="2020-12-13T15:10:39 IST" finished-at="2020-12-13T15:11:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTheBrowser -->
+        <test-method status="PASS" signature="test02_ContactUs_SeeForYouselfButton()[pri:0, instance:testCasesForExecution.TestCasesForPC@30b8a058]" name="test02_ContactUs_SeeForYouselfButton" duration-ms="26909" started-at="2020-12-13T15:11:16 IST" finished-at="2020-12-13T15:11:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02_ContactUs_SeeForYouselfButton -->
+        <test-method status="PASS" signature="closeTheBrowser()[pri:0, instance:testCasesForExecution.TestCasesForPC@30b8a058]" name="closeTheBrowser" is-config="true" duration-ms="6600" started-at="2020-12-13T15:11:43 IST" finished-at="2020-12-13T15:11:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheBrowser -->
+        <test-method status="PASS" signature="startTheBrowser()[pri:0, instance:testCasesForExecution.TestCasesForPC@30b8a058]" name="startTheBrowser" is-config="true" duration-ms="38360" started-at="2020-12-13T15:11:49 IST" finished-at="2020-12-13T15:12:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTheBrowser -->
+        <test-method status="PASS" signature="test03_Click_On_Map_Maker_Tab()[pri:0, instance:testCasesForExecution.TestCasesForPC@30b8a058]" name="test03_Click_On_Map_Maker_Tab" duration-ms="66221" started-at="2020-12-13T15:12:28 IST" finished-at="2020-12-13T15:13:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test03_Click_On_Map_Maker_Tab -->
+        <test-method status="PASS" signature="closeTheBrowser()[pri:0, instance:testCasesForExecution.TestCasesForPC@30b8a058]" name="closeTheBrowser" is-config="true" duration-ms="1097" started-at="2020-12-13T15:13:34 IST" finished-at="2020-12-13T15:13:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheBrowser -->
+        <test-method status="PASS" signature="startTheBrowser()[pri:0, instance:testCasesForExecution.TestCasesForPC@30b8a058]" name="startTheBrowser" is-config="true" duration-ms="31821" started-at="2020-12-13T15:13:35 IST" finished-at="2020-12-13T15:14:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTheBrowser -->
+        <test-method status="PASS" signature="test04_HyperlinkText()[pri:0, instance:testCasesForExecution.TestCasesForPC@30b8a058]" name="test04_HyperlinkText" duration-ms="378" started-at="2020-12-13T15:14:07 IST" finished-at="2020-12-13T15:14:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test04_HyperlinkText -->
+        <test-method status="PASS" signature="closeTheBrowser()[pri:0, instance:testCasesForExecution.TestCasesForPC@30b8a058]" name="closeTheBrowser" is-config="true" duration-ms="1045" started-at="2020-12-13T15:14:07 IST" finished-at="2020-12-13T15:14:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheBrowser -->
+      </class> <!-- testCasesForExecution.TestCasesForPC -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
